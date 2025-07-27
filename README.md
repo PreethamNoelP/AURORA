@@ -9,4 +9,4 @@ AURORA is a cutting-edge academic platform built using AI and NLP to revolutioni
 - 🎮 **Interactive Learning** – Quizzes, gamification, simulations, and case studies.
 - 📚 **Career & Skill Development** – AI-guided internship/job matching and micro-certifications.
 - 🔗 **External Integrations** – Connect with LMS tools (Moodle, Canvas), Google Drive, and Notion.
-- 🧑‍🤝‍🧑 **Community Features** – Peer discussions, live Q&A, and group projects.
+-  **Community Features** – Peer discussions, live Q&A, and group projects.
