@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+speechrecognition
+google-generativeai
+deep-translator
+python-docx
+pdfminer.six
+textblob
+spacy
+openpyxl
+fpdf
+python-dotenv
+nest_asyncio
