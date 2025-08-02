@@ -149,7 +149,7 @@ The application will be available at `http://localhost:8501`
 - `deep-translator`: Multi-language translation
 - `plotly`: Data visualization
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -161,7 +161,7 @@ The application will be available at `http://localhost:8501`
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🆘 Support
+## Support
 
 For support and questions:
 - Create an issue in the repository
