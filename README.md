@@ -2,17 +2,17 @@
 
 AURORA is a cutting-edge academic platform built using AI and NLP to revolutionize personalized learning and student productivity. It features resume analysis, note summarization, topic-specific chatbots, gamification modules, and AI-driven recommendations.
 
-## 🚀 Key Features
+## Key Features
 
-- ✨ **Personalized Note-Making** – Organize, summarize, and download notes as PDFs.
-- 💬 **AI Chatbot Assistants** – Get contextual academic help using Gemini-powered AI.
-- 📄 **Resume Analyzer** – Extracts key fields and evaluates GenAI/ML exposure.
-- 🧠 **AI Notes & Summarization** – Generates summaries, flashcards, and concept maps.
-- 🎮 **Interactive Learning** – Quizzes, gamification, simulations, and case studies.
-- 📚 **Career & Skill Development** – AI-guided internship/job matching and micro-certifications.
-- 🔗 **External Integrations** – Connect with LMS tools (Moodle, Canvas), Google Drive, and Notion.
-- ♿ **Accessibility & Inclusivity** – Multi-language support and voice recognition features.
-- 🔬 **AI Research Tools** – Advanced research and resource curation capabilities.
+- **Personalized Note-Making** – Organize, summarize, and download notes as PDFs.
+- **AI Chatbot Assistants** – Get contextual academic help using Gemini-powered AI.
+- **Resume Analyzer** – Extracts key fields and evaluates GenAI/ML exposure.
+- **AI Notes & Summarization** – Generates summaries, flashcards, and concept maps.
+- **Interactive Learning** – Quizzes, gamification, simulations, and case studies.
+- **Career & Skill Development** – AI-guided internship/job matching and micro-certifications.
+- **External Integrations** – Connect with LMS tools (Moodle, Canvas), Google Drive, and Notion.
+- **Accessibility & Inclusivity** – Multi-language support and voice recognition features.
+- **AI Research Tools** – Advanced research and resource curation capabilities.
 
 ## Project Structure
 
@@ -157,7 +157,7 @@ The application will be available at `http://localhost:8501`
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -178,14 +178,14 @@ For support and questions:
 - [ ] Multi-language interface
 - [ ] Offline mode support
 
-## 📊 Performance Notes
+## Performance Notes
 
 - Large file uploads may take time to process
 - AI responses depend on API availability
 - Voice recognition requires microphone access
 - PDF generation works best with smaller documents
 
-## 🔒 Security
+## Security
 
 - API keys are stored in environment variables
 - Temporary files are automatically cleaned up
